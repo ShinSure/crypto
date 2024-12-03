@@ -1,6 +1,24 @@
 {
-  "name": "Print Master",
+  "name": "Print master",
   "symbol": "PM",
-  "description": "a token used as a ticket for my friend 3d printing",
-  "image": "https://raw.githubusercontent.com/ShinSure/crypto/refs/heads/main/logo.png"
+  "uri": "https://example.com/token/1",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "F1yhjmLVVryh131h5g12dSRru7yWmzi3odzDVCDkyCJB",
+  "seller_fee_collection_address": "F1yhjmLVVryh131h5g12dSRru7yWmzi3odzDVCDkyCJB",
+  "image": "https://raw.githubusercontent.com/ShinSure/crypto/refs/heads/main/logo.png",
+  "seller_fee_burn_address": null,
+  "properties": {
+    "files": [
+      {
+        "type": "text/plain"
+      }
+    ],
+    "category": "digital",
+    "creators": [
+      {
+        "address": "F1yhjmLVVryh131h5g12dSRru7yWmzi3odzDVCDkyCJB",
+        "share": 100
+      }
+    ]
+  }
 }
